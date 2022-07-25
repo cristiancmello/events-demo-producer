@@ -34,4 +34,6 @@ Content-Type: application/json
 
 * View raw data on Landoop UI
 
-<img src="">
+<center>
+    <img src="./docs/screen-1.png" alt="Landoop UI Example">
+</center>
