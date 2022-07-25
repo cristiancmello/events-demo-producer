@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "namespace": "com.kafka.eventsdemoproducer",
+  "name": "Employee",
+  "version": "1",
+  "fields": [
+    { "name": "firstName", "type": "string", "doc": "First Name of Employee" },
+    { "name":  "lastName", "type": "string", "doc": "Last Name of Employee" }
+  ]
+}
